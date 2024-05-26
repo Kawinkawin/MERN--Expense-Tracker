@@ -18,7 +18,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    https://github.com/Kawinkawin/MERN--Expense-Tracker.git
     ```
 2. Install dependencies:
     ```bash
@@ -30,12 +30,17 @@ To get started with the project, follow these steps:
     npm start
     ```
 ## Start the backend
+```bash
 cd my-expence
 <br>
 node index.js
+```
+
 
 ## Start the Application
-npm start
+```bash
+    npm start
+```
 
 
 ## License
