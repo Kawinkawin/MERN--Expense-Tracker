@@ -43,14 +43,4 @@ node index.js
 ```
 
 
-## License
-
-This project is licensed under the MIT License.
-
-
-
-## Start the backend
-cd my-expence
-<br>
-node index.js
 
